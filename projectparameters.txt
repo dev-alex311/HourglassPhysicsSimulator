@@ -1,0 +1,8 @@
+Python Program
+Weight of an Hourglass:
+	-Change the particle size
+	-Change the particle mass
+	=Change the size of the funnel
+	-Change the radius of the opening
+	-see the center of mass moving by time
+	-A graph display 
